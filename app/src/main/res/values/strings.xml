@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Colorful Views</string>
+    <string name="view_1">View 1</string>
+    <string name="view_2">View 2</string>
+    <string name="view_3">View 3</string>
+    <string name="view_4">View 4</string>
+    <string name="button_1">Button 1</string>
+    <string name="button_2">Button 2</string>
+    <string name="button_3">Button 3</string>
+    <string name="view_5">View 5</string>
+    <string name="how_to_play">How to Play:</string>
+    <string name="tap_on_views">Tap on each view to change it\'s color. Then tap on the background.</string>
+</resources>
